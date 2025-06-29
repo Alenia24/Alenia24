@@ -1,9 +1,10 @@
-<h1 align="center">
+<h1 align="left">
   👋 Hey, I'm <span style="color:#4FC3F7">Alenia</span>
 </h1>
-<p align="center">
+<p align="left">
   💻 Full-Stack Developer | 🌐 Web Enthusiast | 🚀 Always Building
 </p>
+<br/>
 
 ## 🚀 About Me
 
@@ -13,6 +14,7 @@
 🌱 Currently learning **TypeScript** and exploring advanced **React** patterns  
 🤝 Looking to collaborate on open-source projects and full-stack web apps  
 📍 Based in North Carolina
+<br/>
 
 ## 🛠️ Technologies & Tools
 
@@ -30,8 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
-<!-- Add or remove tools based on your stack -->
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -39,6 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alenia24&show_icons=true&theme=tokyonight&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenia24&layout=compact&theme=tokyonight" height="165" />
 </p>
+<br/>
 
 ## ✨ Featured Projects
 
@@ -47,13 +49,13 @@
 
 A full-stack travel booking platform where users can browse, book, and review trips.  
 Admins can manage all trip listings through a secure dashboard with full CRUD functionality.
-
----
+<br/>
 
 ### 🖥️ [Portfolio Website](https://aleniaallen.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alenia24/portfolio-v1)
 
 A personal portfolio website, carefully designed and developed to present my projects, skills, and experience with a clean and responsive interface.
+<br/>
 
 ## 📫 Let's Connect
 
@@ -61,6 +63,6 @@ A personal portfolio website, carefully designed and developed to present my pro
 - LinkedIn: [linkedin.com/in/aleniaallen](https://linkedin.com/in/aleniaallen)
 - Portfolio: [aleniaallen.onrender.com](https://aleniaallen.onrender.com)
 
----
+<br/>
 
 ⭐️ From [Alenia24](https://github.com/Alenia24)
