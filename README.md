@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Alenia24&color=blue" alt="Profile views" />
+</p>
+
+
 <h1 align="left">
   👋 Hey, I'm <span style="color:#4FC3F7">Alenia</span>
 </h1>
